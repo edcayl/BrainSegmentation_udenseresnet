@@ -1,0 +1,2 @@
+inicio_entrenamiento:14-04-2022_15-06-10 
+fin_entrenamiento:15-04-2022_02-07-21 
