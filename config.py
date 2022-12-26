@@ -21,7 +21,7 @@ batch_train =8#2
 whole_val = True
 
 
-loss_weights = [1,1.5,1,1]                #None si no se define
+loss_weights = [1,0.43,0.29,0.29]                #None si no se define
 num_classes= 4                     #numero de labels
 img_in_size = (155, 240,240)
 patches_size = (128,128,128)
